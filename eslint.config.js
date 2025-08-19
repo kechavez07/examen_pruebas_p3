@@ -9,7 +9,6 @@ export default [
             semi: ['error', 'always'],
             'no-extra-semi': 'error',
             quotes: ['error', 'single'],
-
         }
 
     }

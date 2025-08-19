@@ -1,0 +1,11 @@
+#para un proyecto en Node.js, necesitamos ignorar ciertos 
+#archivos y carpetas que no son necesarios para el control 
+#de versiones.
+
+node_modules/
+.env
+*.log
+coverage/
+.DS_Store
+#logs de debug
+npm-debug.log*
